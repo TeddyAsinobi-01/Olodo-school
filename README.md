@@ -1,2 +1,2 @@
 # Olodo-school
-My personal template for my school
+My personal template for a school
